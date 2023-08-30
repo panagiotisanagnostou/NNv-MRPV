@@ -16,10 +16,10 @@ If you use this paper, code, or data in your work, please cite:
 
 TODO: Add the citation information for the paper once available.
 
-Acknowledgments
----------------
+Acknowledgment
+--------------
 
-TODO: Add the acknowledgments once available.
+Financed by the European Union - NextGenerationEU through Recovery and Resilience Facility, Greece 2.0, under the call RESEARCH – CREATE – INNOVATE (project code:TAEDK-06185 / T2EDK- 02800)
 
 ---
 
